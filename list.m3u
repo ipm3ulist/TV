@@ -1623,94 +1623,9 @@ http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936902/video.m3u8?token=Qm9y
 
 
 
-#EXTINF0 tvg-id=elb453 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Grand group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-grand.png,Yosso TV Grand
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-GRANDvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb481 catchup=flussonic catchup-days=2 tvg-name=Yosso TV VHS group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-vhs.png,Yosso TV VHS
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-VHSvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb462 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Kids group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-kids.png,Yosso TV Kids
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-KIDSvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb472 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Русские фильмы group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-rusfilm.png,Yosso TV Русские фильмы
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-RUSvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb476 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Советские фильмы group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-sovfilm.png,Yosso TV Советские фильмы
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-SSSRvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb470 catchup=flussonic catchup-days=2 tvg-name=Yosso TV NEW Кино group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-newkino.png,Yosso TV NEW Кино
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-NEWvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb475 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Союзмульт group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-soyuzmult.png,Yosso TV Союзмульт
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-MULTvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb466 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Music Hits group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-musichits.png,Yosso TV Music Hits
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-MUSIC-HITSvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb479 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Трагичное group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-tragic.png,Yosso TV Трагичное
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-TRAGICvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb482 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Забавное group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-zabavnoe.png,Yosso TV Забавное
-#EXTGRPYosso
-httpc.velestore.su8880bal_c8l8u2d4f9l1a3r7e8Y-ZABAVNOEvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb458 catchup=flussonic catchup-days=2 tvg-name=Yosso TV BEST group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-best.png,Yosso TV BEST
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-BESTvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb464 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Ковбойское group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-cowboy.png,Yosso TV Ковбойское
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-KOWBOYvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb456 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Adrenaline group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-adrenaline.png,Yosso TV Adrenaline
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-ADRENALINEvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb471 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Oblivion group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-oblivion.png,Yosso TV Oblivion
-#EXTGRPYosso
-httpc.velestore.su8880bal_c8l8u2d4f9l1a3r7e8Y-OBLIVIONvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb457 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Adventure group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-adventure.png,Yosso TV Adventure
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-ADVENTUREvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb478 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Thriller group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-thriller.png,Yosso TV Thriller
-#EXTGRPYosso
-httpc.velestore.su8880bal_c8l8u2d4f9l1a3r7e8Y-THRILLERvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb455 catchup=flussonic catchup-days=2 tvg-name=Yosso 4K group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-4k.png,Yosso 4K
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-4Kvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb467 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Nature group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-nature.png,Yosso TV Nature
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-NATUREvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb446 catchup=flussonic catchup-days=2 tvg-name=Yosso TV BEST 60 FPS group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvbest_60fps.png,Yosso TV BEST 60 FPS
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-BEST_60FPSvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb459 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Disney group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-disney.png,Yosso TV Disney
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-DISNEYvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb460 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Food group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-food.png,Yosso TV Food
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-FOODvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb469 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Netflix group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-netflix.png,Yosso TV Netflix
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-NETFLIXvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb461 catchup=flussonic catchup-days=2 tvg-name=Yosso TV 4K HDR group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyossohdr4k.png,Yosso TV 4K HDR
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-4K_HDRvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb468 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Наше Детское group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-detskoe.png,Yosso TV Наше Детское
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-DETSKOEvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb473 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Science group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-science.png,Yosso TV Science
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-SCIENCEvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb465 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Мелодрама group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-melodrama.png,Yosso TV Мелодрама
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-Melodramavideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb477 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Советские фильмы 4K group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-sssr_4K.png,Yosso TV Советские фильмы 4K
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-SSSR_4Kvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb480 catchup=flussonic catchup-days=2 tvg-name=Yosso TV Travel group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvyosso-travel.png,Yosso TV Travel
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e1Y-TRAVELvideo.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-#EXTINF0 tvg-id=elb445 catchup=flussonic catchup-days=2 tvg-name=Yosso TV BEST 60 FPS BOX group-title=Yosso tvg-logo=httpimg.velestore.suimglogosyosso_tvbest_60fps.png,Yosso TV BEST 60 FPS BOX
-#EXTGRPYosso
-httpc.velestore.su8880bal_c1l8u2d4f9l1a3r7e108936923video.m3u8token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
-
+#EXTINF:0 tvg-id="elb453" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Grand" group-title="Кинозалы" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-grand.png",Yosso TV Grand
+#EXTGRP:Кинозалы
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-GRAND/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 
 
 
