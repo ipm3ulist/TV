@@ -3517,3 +3517,561 @@ https://mults.info/mp4/chemodan.mp4
 https://mults.info/mp4/chto_tam_pod_maskoy.mp4
 #EXTINF:-1 group-title="Советские мультфильмы" tvg-logo="https://sun9-54.userapi.com/UrTc0ST2GqH2zmsXqZeowp9qu2arx2IY4grcPw/KzTvobJX9kA.jpg",Яблочный пирог 1991г
 https://mults.info/mp4/yablochny_pirog.mp4
+
+
+
+#EXTINF:0 tvg-id="elb4216" tvg-name="Алматы (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/almaty.png",Алматы (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/ALMATY_TV_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4221" tvg-name="Балапан ТВ (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/balapan.png",Балапан ТВ (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/BALAPAN_TV_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4197" tvg-name="КТК (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/ktk-kz.png",КТК (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/KTK_TV_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2165" tvg-name="MuzzOne (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/muzzone.png",MuzzOne (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/MUZZONE_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4192" tvg-name="Первый канал Евразия (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/pervy-kanal-eurasia-kz.png",Первый канал Евразия (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/1TV_EURASIA_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4243" tvg-name="QazSport (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/kazsport.png",QazSport (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/QAZSPORT_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4181" tvg-name="24KZ" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/xabar24.png",24KZ
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/KHABAR_24_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4242" tvg-name="Qazaqstan TV (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/kazakhstan.png",Qazaqstan TV (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/QAZAQSTAN_TV_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1688" tvg-name="QAZAQ TV (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/kazakh-tv.png",QAZAQ TV (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/QAZAQ_TV_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4178" tvg-name="31 канал (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/31-kanal-kz.png",31 канал (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/31_channel_kz/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3041" tvg-name="TRT 1" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-1-hd.png",TRT 1
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_1_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3044" tvg-name="TRT AVAZ TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-avaz.png",TRT AVAZ TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_AVAZ_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3907" tvg-name="TRT BELGESEL" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-belgesel.png",TRT BELGESEL
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_BELGESEL_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3896" tvg-name="TRT COCUK" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-cocuk.png",TRT COCUK
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_COCUK_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3045" tvg-name="TRT HABER" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-haber.png",TRT HABER
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_HABER_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="TRT Kurd" tvg-name="TRT KURDI" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-kurdi.png",TRT KURDI
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_KURDI_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3046" tvg-name="TRT Muzik" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-muzik.png",TRT Muzik
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_MUZIK_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3048" tvg-name="TRT TURK" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-turk.png",TRT TURK
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_TURK_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3042" tvg-name="TRT 2" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-2.png",TRT 2
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_2_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3981" tvg-name="TV100" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/tv100-tr.png",TV100
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TV100_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="history-viasat-en" tvg-name="SINEMA AILE TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/viasat-history.png",SINEMA AILE TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/VIASAT_HISTORY_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3919" tvg-name="Love Nature TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/love-nature-tr.png",Love Nature TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/LOVE_NATURE_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3916" tvg-name="Discovery Channel TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/discovery.png",Discovery Channel TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/DISCOVERY_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3918" tvg-name="Discovery Science TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/discovery-science.png",Discovery Science TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/DISCOVERY_SCIENCE_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3897" tvg-name="Disney Junior TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/disney-junior.png",Disney Junior TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/DISNEY_JUNIOR_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2186" tvg-name="Docubox TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/docubox.png",Docubox TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/DOCUBOX_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3928" tvg-name="Dream Turk TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/dreamturk.png",Dream Turk TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/DREAMTURK_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3690" tvg-name="Filmbox TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/filmbox.png",Filmbox TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/FILMBOX_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2620" tvg-name="SINEMA 1001 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/cartoon-network-tr.png",SINEMA 1001 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/CARTOON_NETWORK_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3905" tvg-name="SINEMA 1002 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/boomerang.png",SINEMA 1002 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/BOOMERANG_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2606" tvg-name="CNN TURK" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/cnn-turk.png",CNN TURK
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/CNN_TURK_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2362" tvg-name="BEIN SPORTS 1 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/fastfun.png",BEIN SPORTS 1 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/FAST_FUN_BOX_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3792" tvg-name="FightBox TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/fightbox.png",FightBox TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/FIGHTBOX_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="4961" tvg-name="BEIN SPORTS 4 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/yeni.png",BEIN SPORTS 4 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/YENI_KOCAELI_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2604" tvg-name="minika COCUK TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/cocuk-smart.png",minika COCUK TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/COCUKSMART_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="turksat" tvg-name="Turksat" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/turksat.jpg",Turksat
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/TURKSAT_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="5093" tvg-name="BEIN SPORTS 3 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/akilli.png",BEIN SPORTS 3 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/AKILLI_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="BEIN SPORTS 2 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/flashtv-son.jpg",BEIN SPORTS 2 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/FLASH_TV_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="atv-hd-tr" tvg-name="ATV HD TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/atv-hd-tr.png",ATV HD TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/ATV_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3945" tvg-name="A2 Turkey HD TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/eurod.png",A2 Turkey HD TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/EURO_D_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="kanal-d-hd" tvg-name="Kanal D TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/kanal-d-hd.png",Kanal D TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/KANAL_D_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="TRT WORLD TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt3-spor.png",TRT WORLD TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/TRT_3_SPOR_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="TRT ARABI TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-arabi.png",TRT ARABI TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/TRT_ARABI_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="TRT Spor Y?ld?z" tvg-name="BEYAZ TV HD TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-spor-y.png",BEYAZ TV HD TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/TRT_SPOR_YILDIZ_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="TRT Spor" tvg-name="TRT SPOR HD TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-spor.png",TRT SPOR HD TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/TRT_SPOR_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2587" tvg-name="A SPOR TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/aspor.png",A SPOR TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/A_SPOR_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2589" tvg-name="NR1 Turk TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/ahaber.png",NR1 Turk TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/A_HABER_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3885" tvg-name="TIVIBU SPOR 1 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/eurosport-1-tr.png",TIVIBU SPOR 1 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/EUROSPORT_1_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3886" tvg-name="TIVIBU SPOR 2 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/eurosport-2-tr.png",TIVIBU SPOR 2 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/EUROSPORT_2_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2593" tvg-name="STAR TV TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/star-tv.png",STAR TV TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/STAR_TV_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3954" tvg-name="FOX TV TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/fox-tv-tr.png",FOX TV TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/FOX_TV_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3861" tvg-name="FOX CRIME TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/fox-crime-tr.png",FOX CRIME TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/FOX_CRIME_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2607" tvg-name="TEVE 2 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/teve-2-tr.png",TEVE 2 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/TEVE_2_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3956" tvg-name="KANAL 7 AVRUPA TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/kanal-7.png",KANAL 7 AVRUPA TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/KANAL_7_AVRUPA_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2614" tvg-name="TV8 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/tv8.png",TV8 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/TV_8_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="Power Turk TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/powerturk_tv..png",Power Turk TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/DIZI_PREMIUM_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="Dizi SmartMax TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/dizi_smart_max.png",Dizi SmartMax TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/DIZI_SMART_MAX_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3922" tvg-name="National Geographic TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/natgeo.png",National Geographic TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/NATGEO_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3921" tvg-name="NatGeoWild TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/natgeowild.png",NatGeoWild TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/NATGEOWILD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="TIVIBU SPOR 3 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/tivibu-spor-3-tr.png",TIVIBU SPOR 3 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/MOVIE_CLASSIC_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="Movie Turk TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/movie_smart_turk.png",Movie Turk TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/MOVIE_TURK_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3894" tvg-name="NBA TV TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/nbatv.png",NBA TV TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/NBA_TV_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3881" tvg-name="S SPORT 1 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/s-sport-1-tr.png",S SPORT 1 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/S_SPORT_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3881" tvg-name="S SPORT 2 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/s-sport-1-tr.png",S SPORT 2 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/S_SPORT_2_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="Tivibu Sport 1 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/tivibu_spor_turk.png",Tivibu Sport 1 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/tivibu_sport_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3755" catchup="flussonic" catchup-days="1" tvg-name="RTL HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/rtl.png",RTL HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/RTL_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3797" catchup="flussonic" catchup-days="1" tvg-name="SUPER RTL HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/super-rtl-hd.png",SUPER RTL HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SUPER_RTL_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2586" catchup="flussonic" catchup-days="1" tvg-name="RTL 2 HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/rtl2.png",RTL 2 HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/RTL_2_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3756" catchup="flussonic" catchup-days="1" tvg-name="RTL CRIME HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/rtl-crime-de.png",RTL CRIME HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/RTL_CRIME_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3757" tvg-name="RTL LIVING HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/rtl.png",RTL LIVING HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/RTL_NITRO_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3768" catchup="flussonic" catchup-days="1" tvg-name="SKY 1 HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/skyone-de.png",SKY 1 HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SKY_1_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="SKY CINEMA (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cinema.png",SKY CINEMA (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_de/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3769" catchup="flussonic" catchup-days="1" tvg-name="SKY ATLANTIC (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-atlantic.png",SKY ATLANTIC (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SKY_ATLANTIC/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3770" tvg-name="SKY CINEMA ACTION (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cinema-action.png",SKY CINEMA ACTION (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_action/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="965" tvg-name="SKY SHOWCASE (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/Sky_Showcase.png",SKY SHOWCASE (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_best_of/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3771" catchup="flussonic" catchup-days="1" tvg-name="SKY CINEMA CLASSICS (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cinema-nostalg.png",SKY CINEMA CLASSICS (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_classics/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3772" tvg-name="SKY CINEMA FAMILY (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cinema-family.png",SKY CINEMA FAMILY (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_family/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="SKY CINEMA FUN (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cinema-comedy.png",SKY CINEMA FUN (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_fun/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3774" catchup="flussonic" catchup-days="1" tvg-name="SKY CINEMA PREMIEREN (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cin-prem-de.png",SKY CINEMA PREMIEREN (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_premieren/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4449" tvg-name="SKY CINEMA SPECIAL (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky_cinema_special.png",SKY CINEMA SPECIAL (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_special/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="HGTV HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/poznanie/hgtv.png",HGTV HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_thriller/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4450" tvg-name="SKY COMEDY (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-comedy-uk.png",SKY COMEDY (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_comedy/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3775" catchup="flussonic" catchup-days="1" tvg-name="SKY CRIME (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky_crime_de.png",SKY CRIME (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_crime/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3776" tvg-name="SKY DOCUMENTARIES (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-docum-de.png",SKY DOCUMENTARIES (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_documentaries/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3777" tvg-name="SKY KRIMI (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-krimi-de.png",SKY KRIMI (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_krimi/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3778" tvg-name="SKY NATURE (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-nat-de.png",SKY NATURE (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_nature/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3779" tvg-name="SKY REPLAY (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-replay-de.png",SKY REPLAY (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_replay/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="SKY HITS (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cin-hits-de.png",SKY HITS (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_hits/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3733" tvg-name="n-tv HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/n-tv-hd-de.png",n-tv HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/n-tv_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3761" catchup="flussonic" catchup-days="1" tvg-name="sat.1 HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sat1.png",sat.1 HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SAT_1_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3722" tvg-name="N24 (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/N24_docu.png",N24 (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/N24_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3681" tvg-name="EUROSPORT (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/eurosport1.png",EUROSPORT (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/EUROSPORT_1_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3682" tvg-name="EUROSPORT 2 (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/eurosport2.png",EUROSPORT 2 (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/EUROSPORT_2_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3791" tvg-name="SPORT1 (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sport1-de.png",SPORT1 (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SPORT_1_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3812" tvg-name="Universal TV (DE)" group-title="Germany (DE)" tvg-logo=" ",Universal TV (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/UNIVERSAL_TV_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3702" tvg-name="JUKEBOX HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/jukebox-de.png",JUKEBOX HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/FOX_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3799" tvg-name="Syfy HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/syfy.png",Syfy HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SYFY_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3813" catchup="flussonic" catchup-days="1" tvg-name="VOX HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/vox.png",VOX HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/VOX_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3817" tvg-name="TNT SERIE HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tnt-serie-de.png",TNT SERIE HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/TNT_SERIE_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3816" tvg-name="TNT FILM HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tnt-film-de.png",TNT FILM HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/TNT_FILM_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3638" tvg-name="AXN Black HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/axn.png",AXN Black HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/AXN_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3671" tvg-name="DISCOVERY HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/discovery-channel-pl.png",DISCOVERY HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/DISCOVERY_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3724" tvg-name="NAT GEO WILD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/nat-geo-wild.png",NAT GEO WILD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/NAT_GEO_WILD_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3723" tvg-name="NATIONAL GEOGRAPHIC (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/national-geographic.png",NATIONAL GEOGRAPHIC (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/NATIONAL_GEOGRAPHIC_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3802" tvg-name="HISTORY (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/history.png",HISTORY (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/HISTORY_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3729" tvg-name="NICKELODEON HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/nickelodeon_de.png",NICKELODEON HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/NICK_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="BOOMERANG (DE)" group-title="Germany (DE)" tvg-logo="no_ico",BOOMERANG (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/BOOMERANG_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3657" tvg-name="CARTOON NETWORK (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/cartoon-network.png",CARTOON NETWORK (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/CARTOON_NETWORK_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3728" tvg-name="NICK JR. (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/nick-jr.png",NICK JR. (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/DISNEY_JR_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3672" tvg-name="DISNEY HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/disney-de.png",DISNEY HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/DISNEY_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3667" catchup="flussonic" catchup-days="1" tvg-name="DAS ERSTE (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/das-erste.png",DAS ERSTE (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/DAS_ERSTE_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3634" tvg-name="ARTE (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/arte-hd.png",ARTE (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/ARTE_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3821" catchup="flussonic" catchup-days="1" tvg-name="ZDF HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/zdf.png",ZDF HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/ZDF_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3767" tvg-name="SIXX HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sixx_hd.png",SIXX HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SIXX_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3703" catchup="flussonic" catchup-days="1" tvg-name="KABEL EINS (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/kabel-1.png",KABEL EINS (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/KABEL_EINS_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3743" catchup="flussonic" catchup-days="1" tvg-name="PROSIEBEN HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_pro_7.png",PROSIEBEN HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/PROSIEBEN_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3632" tvg-name="WELT HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/welt_hd_de.png",WELT HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/WELT_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="E! Entertainm. HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/warner-tv-serie.png",E! Entertainm. HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/E_ENTERT_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3797" tvg-name="Spiegel Geschichte HD (De)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/spiegel-gesch.png",Spiegel Geschichte HD (De)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SPIEGEL_GESCHICHTE_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3754" tvg-name="ROMANCE TV (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/romance_tv.png",ROMANCE TV (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/ROMANCE_TV_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3707" tvg-name="KINOWELT (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/kinowelt.png",KINOWELT (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/KINOWELT_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3673" tvg-name="DMAX HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_dmax.png",DMAX HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/DMAX_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3626" tvg-name="13th STREET (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_13th_street.png",13th STREET (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/13TH_STREET_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3726" tvg-name="NDR HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_ndr.png",NDR HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/NDR_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3699" tvg-name="HR HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_hr.png",HR HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/HR_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3632" tvg-name="ANIXE HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_anixe.png",ANIXE HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/ANIXE_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3736" tvg-name="ORF 2N (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/orf2.png",ORF 2N (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/ORF_2N_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3737" tvg-name="ORF 1 HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/orf1.png",ORF 1 HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/ORF_1_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3706" tvg-name="KIKA (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_kika.png",KIKA (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/KIKA_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3744" catchup="flussonic" catchup-days="1" tvg-name="PROSIEBEN MAXX (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/prosieben-maxx.png",PROSIEBEN MAXX (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/PROSIEBEN_MAXX_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3628" tvg-name="3SAT (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_3_sat.png",3SAT (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/3SAT_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3818" tvg-name="WDR HD Aachen (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_wdr.png",WDR HD Aachen (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/WDR_HD_AACHEN_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb862" tvg-name="ATV HD AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/atv-armenia.png",ATV HD AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936907/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1588" tvg-name="H1 AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/h1-am.png",H1 AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936901/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1590" tvg-name="H2 AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/h2-am.png",H2 AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936902/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Shant HD AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/shant.png",Shant HD AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936903/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb835" tvg-name="Armenia TV AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia-tv.png",Armenia TV AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936904/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Horizon TV AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/horizon-am.png",Horizon TV AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936905/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="New Armenia AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/new-armenia.png",New Armenia AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936906/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Shoghakat AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/shog.png",Shoghakat AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936907/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Yerkir Media AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/ymedia.png",Yerkir Media AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936908/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1718" tvg-name="Kentron AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/kentron.png",Kentron AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936909/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Tsayg AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/tsayg.png",Tsayg AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936910/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Azatutyun TV AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/Azatutyun.png",Azatutyun TV AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936911/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Dar 21 AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/21tv.png",Dar 21 AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936912/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="5TV AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/5tv.png",5TV AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936913/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="5TV Plus AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/5tv.png",5TV Plus AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936914/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="H1 Lurer AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/h1-am.png",H1 Lurer AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936915/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="ABN AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/abn.png",ABN AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936916/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="ARTN AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/artn-am.png",ARTN AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936917/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia Sat AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia Sat AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936918/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia Cinema AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia Cinema AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936919/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia Comedy AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia Comedy AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936920/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1483" tvg-name="Fast Sports AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/fastssports.png",Fast Sports AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936921/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Freenews AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/freenews.png",Freenews AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936922/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia Hay Kino AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia Hay Kino AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936923/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia JanTV AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia JanTV AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936924/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="PanAmerican AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/panamerican.png",PanAmerican AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936925/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb113" tvg-name="Shant Kids AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/shant-kids-hd.png",Shant Kids AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936926/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb114" tvg-name="Shant Music AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/shant-music-hd.png",Shant Music AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936927/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia Tuntunik AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia Tuntunik AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936928/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia Premium AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia Premium AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936929/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="USArmenia AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/usarmenia.png",USArmenia AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936930/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="ARB 24 AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/ARB_24.png",ARB 24 AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936908/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="ARB AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/ARB.png",ARB AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936909/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb878" tvg-name="AzTV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/aztv.png",AzTV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936910/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1614" tvg-name="Ictimai TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/ictimai-tv.png",Ictimai TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936911/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3409" tvg-name="Xezer AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/xezer.png",Xezer AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936912/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1954" tvg-name="Medeniyyet AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/medeniyyet.png",Medeniyyet AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936913/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb865" tvg-name="ATV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/atv-hd-tr.png",ATV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936914/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1142" tvg-name="CBC AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/cbc-az.png",CBC AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936915/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Al Zahra TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/alzahra.png",Al Zahra TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936916/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Aznews AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/aznews.png",Aznews AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936917/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Baku TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/bakutv.png",Baku TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936918/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1143" tvg-name="CBC Sport AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/cbc-sport.png",CBC Sport AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936919/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Dunya TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/dunya-tv-az.png",Dunya TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936920/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Gunaz AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/gunaz.png",Gunaz AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936921/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1620" tvg-name="Idman AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/idman.png",Idman AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936922/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Kepez TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/kepez.png",Kepez TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936923/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Konul AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/konul.png",Konul AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936924/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="MTV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/mtv.png",MTV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936926/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Topaz 2 AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/topaz2.png",Topaz 2 AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936927/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Space TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/spacetv.png",Space TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936928/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Real TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/realtv.png",Real TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936929/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="AZ Star AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/azstar.png",AZ Star AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936930/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
