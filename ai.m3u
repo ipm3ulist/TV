@@ -21,49 +21,55 @@ http://cdn.admuspeh.my/9084/video.m3u8?token=569M91rJ3HSEsBbe
 
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/гарри%20потер%20и%20филосовский%20камень.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Филосовский Камень (2001)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Sorcerers_Stone_2001.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/тайная%20комната.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Тайная комната (2002)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Chamber_of_Secrets_2002.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 1 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e01.2020.webdl.1080p.getty/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/узник%20аскабана.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Узник Азкабана (2004)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Prisoner_of_Azkaban_2004.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 2 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e02.2020.webdl.1080p.getty/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/Кубок%20огня.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Кубок Огня (2005)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Goblet_of_Fire_2005.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 3 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e03.2020.webdl.1080p.getty/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/орден%20феникса.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Орден Феникса (2007)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Order_of_the_Phoenix_2007.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 4 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e04.2020.webdl.1080p.getty/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/Принц%20полукровка.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Принц Полукровка (2009)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Half_Blood_Prince_2009.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 5 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e05.2020.webdl.1080p.getty/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/Дары%20смерти%20часть%201.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Дары Смерти Часть 1 (2010)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Deathly_Hallows_Part_1_2010.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 6 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e06.2020.webdl.1080p.getty/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/дары%20смерти%20часть%202.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Дары Смерти Часть 2 (2011)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Deathly_Hallows_Part_2_2011.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 7 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e07.2020.webdl.1080p.getty/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/20%20лет%20спустя.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер 20 лет спустя: Возвращение в Хогвартс (2022)
-https://dlcachttps://b-401.fotpro135alto.com/stream2/b-401/e9ceee321d23dd7744153b734054ae89/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT210VahmTEt2MZJTV45keFhXW6dWMOJjWsl1VatmTtpUbNpWR6plaBNzTElVP:1752010298:94.253.94.150:c0e9654ea7e1761658e35a2826944f41f6e14d7efd6610165a9678ebbcc0a82b/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 8 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e08.2020.webdl.1080p.getty/hls/index.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка!: История создания
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e09.film.o.seriale.2020.webdl.1080p.getty/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/images/methode/2017/11/02/f4e8990a-beb8-11e7-b942-6d23cbdef96a_1280x720_122121.jpg?itok=FNqrOSHh" group-title="Гарри Поттер", Гарри Поттер: История магии (2017)
-https://cdn-400.fotpro135alto.com/stream2/cdn-400/e9ceee321d23dd7744153b734054ae89/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21keW1WW6N2dNdUV35ERWpmTHpUaORkUq1ERNh3TXVUNORVW4pFVWpmWEtWP:1752010353:94.253.94.150:3b6dddf9c254dee47320e6f86210c9e4d7d03a837afaa88a116c56e1006eecae/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 1 серия
 
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/01.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/фантастические%20твари%20и%20где%20они%20обитают.jpg?raw=true" group-title="Гарри Поттер", Фантастические твари и где они обитают (2016)
-https://cdn-400.fotpro135alto.com/stream2/cdn-400/e9ceee321d23dd7744153b734054ae89/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaFVjTHlVMaRlTs9ERnRjT6JFbPR0a080VG1mTX1kMNdUV510VKhWT6VVP:1752010420:94.253.94.150:9b3440795f95d75a49aacc7cd6265b9452e1536de4fb823e99898aa25ab4f6ac/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 2 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/02.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 3 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/03.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/фантастические%20твари%20и%20преступления%20грин%20де%20вальда.JPG?raw=true" group-title="Гарри Поттер", Фантастические твари: Преступления Грин-де-Вальда (2018)
-https://cdn-400.fotpro135alto.com/stream2/cdn-400/e9ceee321d23dd7744153b734054ae89/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVohmWXVEeNp3YxolaBRzTHlUMOJjRtp1VVhXTEVVMaRVR14ERrBjWXVVP:1752010470:94.253.94.150:219bb935d77195af36486808886d51affefcd569c7f2b046d6f6bc391cdfdf33/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 4 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/04.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 5 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/05.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/тайны%20дамблдора.jpg?raw=true" group-title="Гарри Поттер", Фантастические твари: Тайны Дамблдора (2022)
-https://cdn-400.fotpro135alto.com/stream2/cdn-400/e9ceee321d23dd7744153b734054ae89/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1Val2TUdWNO1mSs50VWhWT6dWeaRUSyklaVhnWtllMOdVSz0keZpnTyEVP:1752010510:94.253.94.150:c634188dbd8058067e3ca8589b9c2ec56aeedb2db7d40ccafa165b802869fd7c/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 6 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/06.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 7 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/07.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://getdrawings.com/vectors/vector-pdf-13.jpg" group-title="Гарри Поттер", Фантастические Твари: Природоведение (2022)
-https://cdn-400.fotpro135alto.com/stream2/cdn-400/e9ceee321d23dd7744153b734054ae89/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1Val2TUdWNO1mSs50VWhWT6dWeaRUSyklaVhnWtllMOdVSz0keZpnTyEVP:1752010510:94.253.94.150:c634188dbd8058067e3ca8589b9c2ec56aeedb2db7d40ccafa165b802869fd7c/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 8 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/08.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
