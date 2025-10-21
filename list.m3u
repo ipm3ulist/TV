@@ -1623,8 +1623,8 @@ http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936902/video.m3u8?token=Qm9y
 
 
 
-#EXTINF:0 tvg-id="elb453" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Grand" group-title="Кинозалы" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-grand.png",Yosso TV Grand
-#EXTGRP:Кинозалы
+#EXTINF:0 tvg-id="elb453" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Grand" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-grand.png",Yosso TV Grand
+#EXTGRP:Yosso
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-GRAND/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 
 
