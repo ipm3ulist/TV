@@ -1,24 +1,3 @@
-#EXTINF:-1 tvg-id="1073" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_bum_dom.png" catchup-days="0", Kernel TV Бумажный дом HD
-http://cdn.admuspeh.my/9052/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1075" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_time.png" catchup-days="0", Kernel TV Время HD
-http://cdn.admuspeh.my/9054/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1076" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_geroy.png" catchup-days="0", Kernel TV Герой HD
-http://cdn.admuspeh.my/9055/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1079" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_doctor.png" catchup-days="0", Kernel TV Доктор HD
-http://cdn.admuspeh.my/9058/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1082" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_interny.png" catchup-days="0", Kernel TV Интерны HD
-http://cdn.admuspeh.my/9061/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1084" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_comedy.png" catchup-days="0", Kernel TV Комедия HD
-http://cdn.admuspeh.my/9063/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1085" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_kosmoc.png" catchup-days="0", Kernel TV Космос HD
-http://cdn.admuspeh.my/9064/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1097" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_new_movies.png" catchup-days="0", Kernel TV Новинки HD
-http://cdn.admuspeh.my/9077/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1100" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_svaty.png" catchup-days="0", Kernel TV Сваты HD
-http://cdn.admuspeh.my/9080/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1104" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_happy_new_year.png" catchup-days="0", Kernel TV Счастливого нового года HD
-http://cdn.admuspeh.my/9084/video.m3u8?token=569M91rJ3HSEsBbe
-
 
 
 
