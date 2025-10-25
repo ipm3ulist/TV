@@ -1,1 +1,2 @@
-http://cdn.admuspeh.my/8001/video.m3u8?token=aCHYL5BAkGBshJPt
+#EXTINF:-1 tvg-id="viju+ Premiere HD" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/Viju+%20Premiere%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8119/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", viju+ Premiere HD
+http://cdn.admuspeh.my/8119/video.m3u8?token=aCHYL5BAkGBshJPt
