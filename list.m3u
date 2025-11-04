@@ -1050,8 +1050,7 @@ http://cdn.admuspeh.my/8318/video.m3u8?token=aCHYL5BAkGBshJPt
 http://cdn.admuspeh.my/8189/video.m3u8?token=aCHYL5BAkGBshJPt
 #EXTINF:-1 tvg-id="Муз ТВ" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%A3%D0%97-%D0%A2%D0%92%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8190/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Муз ТВ
 http://cdn.admuspeh.my/8190/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Setanta Sports 2 HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/Setanta%20Sports%202%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8676/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Setanta Sports 2 HD
-http://cdn.admuspeh.my/8676/video.m3u8?token=aCHYL5BAkGBshJPt
+
 
 
 #EXTINF:0 tvg-id="elb361" catchup="flussonic" catchup-days="1" tvg-name="Ретро" group-title="Фильмы и сериалы" tvg-logo="http://img.velestore.su/img/logos/films/retro-tv.png",Ретро
